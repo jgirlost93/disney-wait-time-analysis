@@ -45,13 +45,13 @@ Additional features created:
 ## Visualizations
 
 ### Wait Time by Ride
-![Wait Time by Ride](avg_wait_by_ride.png)
+![Wait Time by Ride](visuals/avg_wait_by_ride.png)
 
 ### Wait Time by Time of Day
-![Time of Day](wait_by_time.png)
+![Time of Day](visuals/wait_by_time.png)
 
 ### Lightning Lane Comparison
-![Lightning Lane](comparison.png)
+![Lightning Lane](visuals/comparison.png)
 
 ## Key Insights
 
