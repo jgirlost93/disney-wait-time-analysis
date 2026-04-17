@@ -1,5 +1,11 @@
 # Disney Wait Time Analysis: Is Lightning Lane Worth It?
 
+## Project Summary
+
+This project analyzes Disney World wait time data to evaluate whether Lightning Lane is worth the additional cost.
+
+Key finding: Lightning Lane reduces wait times by ~70%, saving guests an average of 30 minutes per ride.
+
 ## Overview
 
 This project analyzes Disney World ride wait times to determine whether Lightning Lane provides meaningful value to guests.
@@ -63,6 +69,10 @@ Additional features created:
 - Average standby wait: ~43 minutes
 - Estimated Lightning Lane wait: ~13 minutes
 - ~30 minutes saved per ride (~70% reduction)
+
+## Key Insight
+
+Lightning Lane reduces average wait times from ~43 minutes to ~13 minutes — a ~70% reduction.
 
 ## Conclusion
 
