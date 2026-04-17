@@ -36,6 +36,17 @@ Additional features created:
 - Hour of day
 - Time of day categories (morning, afternoon, evening)
 
+## Visualizations
+
+### Wait Time by Ride
+![Wait Time by Ride](avg_wait_by_ride.png)
+
+### Wait Time by Time of Day
+![Time of Day](wait_by_time.png)
+
+### Lightning Lane Comparison
+![Lightning Lane](comparison.png)
+
 ## Key Insights
 
 ### 1. Wait Times Peak in the Afternoon
